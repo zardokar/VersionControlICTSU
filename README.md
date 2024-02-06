@@ -29,9 +29,9 @@ Project
     - 641310148 พัทธวรรณ วุฒิกุลรัตน์ : Programmer https://github.com/Pattawan148
     - 641310475 ศิวนาถ จันทร์แก้วเดช Artist https://github.com/641310475
 - 5 https://github.com/Fullsun-aem/Top-down_project
-    - 641310145 พณฤฏฐ์ ชำนิ
-    - 641310146 พรชิตา โพธิ์ชื่น Art Director : https://github.com/Fullsun-aem
-    - 641310149 ภูรี ศุภกิตติพันธุ์
+    - 641310145 พณฤฏฐ์ ชำนิ Art Director : https://github.com/XSacrifice
+    - 641310146 พรชิตา โพธิ์ชื่น Game Developer : https://github.com/Fullsun-aem
+    - 641310149 ภูรี ศุภกิตติพันธุ์ Game Design : https://github.com/xXDr4g0nRoTXx
 - 6 https://github.com/Flooker007/888Game.git
     - 641310461 ณัฐนันท์ บัวสิน : Developer : https://github.com/Nuttanuncurry
     - 641310462 ณัฐนันท์ สิงหาสาร : 2D Artist : https://github.com/Flooker007
@@ -52,7 +52,10 @@ Project
     - 641310242: GameDesign,Programmer: ไรวินทร์ จิวารีอาชีวะ: https://github.com/Nine242
     - 641310460: Artist : ณัฐณันนธ์ รุจิรจิกาโมทย์: https://github.com/Criticali
     - 641310463: Artist : ธนกร กาญจนเทวีวัฒน์: https://github.com/641310463
+<<<<<<< HEAD
 - 11 https://github.com/FCW-02/TopDownThing
     - 641310523 พิเชฐพงศ์ นิติกาญจนา : Game Design : https://github.com/FCW-02 
     - 641310465 ธรรมวัฒน์ ศรีสมาน : Artist : https://github.com/thammawa 
     - (หาเพิ่ม)
+=======
+>>>>>>> 84d7cd2554ae931f214896dbd407b9336a3cd7e2
