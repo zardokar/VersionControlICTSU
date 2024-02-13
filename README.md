@@ -1,6 +1,6 @@
 # VersionControlICTSU
 
-written on test_pr branch
+written on test_pr branch v2
 
 Project
 =====================================
